@@ -114,10 +114,6 @@ This reports MA@3, MA@10, MA@20, and RDS. Visualization of predicted heatmaps an
 ```
 TAME/
 ├── models/
-│   ├── tlaam.py       # Triple-level adaptive attention modulation
-│   ├── osi.py         # Orthogonal subspace injection
-│   ├── mec.py         # Multi-scale edge compensation
-│   └── fmhead.py      # Feature modulator head
 ├── train.py
 ├── eval.py
 ├── dataloader/        # UL14 dataset loader
