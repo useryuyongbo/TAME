@@ -1,6 +1,6 @@
 # TAME# TAME: An End-to-End UAV Self-Localization Framework Based on Visual Sensors in GNSS-Denied Environments
 
-Official implementation of the paper **"TAME: An End-to-End UAV Self-Localization Framework Based on Visual Sensors in GNSS-Denied Environments"** (submitted to *IEEE Sensors Journal*).
+Official implementation of the paper **"TAME: An End-to-End UAV Self-Localization Framework Based on Visual Sensors in GNSS-Denied Environments"**.
 
 TAME performs vision-based self-localization for UAVs by regressing a spatial probability heatmap over a georeferenced satellite image, without relying on GNSS signals or discrete image retrieval. Four lightweight modules adaptively modulate cross-view sensing signals at runtime, and **all of them introduce zero trainable parameters**.
 
